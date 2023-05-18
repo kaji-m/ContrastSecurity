@@ -24,7 +24,8 @@ services:
       - mysql
 
   mysql:
-    image: mysql:5.7
+    # image: mysql:5.7
+    image: mysql/mysql-server:5.7 # for M1/ARM64 compatibility
     container_name: dvwa.mysql
     environment:
       - "MYSQL_USER=dvwa"
