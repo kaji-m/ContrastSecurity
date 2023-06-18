@@ -1,7 +1,7 @@
 # DISCLAIMER: This workflow file has been auto-generated and committed to the repo by the GitHub App from Contrast Security.
 # Manual edits to this file could cause the integration to produce unexpected behavior or break.
 # Version: 1.0.0
-# Last updated: 2023-06-18T23:26:16.231982538Z
+# Last updated: 2023-06-18T23:26:45.987648034Z
 name: Contrast Security App Workflow
 on:
   workflow_dispatch:
